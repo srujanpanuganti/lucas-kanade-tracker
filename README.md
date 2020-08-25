@@ -17,10 +17,10 @@ To execute the project run
 ## See how it works
 
 <p align="center">
-<img src="images/late_detect.gif" alt="lane" width="800">
+<img src="images/track.gif" alt="tracker" width="800">
 </p>
 <p align="center">
-<em>Lane Departure Warning System</em>
+<em>Object tracking</em>
 </p>
 
 
